@@ -1,0 +1,1 @@
+document.querySelector('._tab_talk>a')
